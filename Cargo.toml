@@ -1,6 +1,6 @@
 [package]
 name = "timefyi"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["FYIPedia"]
 description = "Timezone operations, business hours, and sunrise/sunset — async API client for timefyi.com."
